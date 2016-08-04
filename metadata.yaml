@@ -1,0 +1,23 @@
+_repo: Old-John-Brown-the-man-whose-soul-is-marching-on_2050
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawkins, Walter
+    gutenberg_agent_id: '801'
+    url: http://www.gutenberg.org/2009/agents/801
+description: ''
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abolitionists -- United States -- Biography'
+- !lcsh 'Brown, John, 1800-1859'
+- !lcc 'E300'
+- GITenberg
+title: Old John Brown, the man whose soul is marching on
+url: http://www.gutenberg.org/ebooks/2050
